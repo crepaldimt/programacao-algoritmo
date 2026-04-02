@@ -1,4 +1,4 @@
-EXERCÍCIO 1:
+# EXERCÍCIO 1:
 
 ladoa = float(input('Indique o tamanho do lado A: '))
 ladob = float(input('Indique o tamanho do lado B: '))
@@ -19,7 +19,7 @@ if tria:
 else:
  print('Não é triângulo :(')
 
-EXERCÍCIO 2:
+# EXERCÍCIO 2:
 
 anoa = int(input('Qual ano estámos? '))
 
