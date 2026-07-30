@@ -1,1 +1,43 @@
+# Lista de Exercícios — Estruturas Condicionais e Repetição com `while`
 
+Lista de exercícios de lógica de programação em Python, dividida em duas partes: estruturas condicionais (`if`, `elif`, `else`) e estrutura de repetição `while`.
+
+## 📋 Conteúdo
+
+### Parte 1 — Estruturas Condicionais (exercícios 1 a 5)
+1. Número Positivo, Negativo ou Zero
+2. Verificação de Maioridade
+3. Verificação de Número Par ou Ímpar
+4. Calculadora Simples
+5. Sistema de Aprovação Escolar
+
+### Parte 2 — Estrutura de Repetição `while` (exercícios 6 a 10)
+6. Contagem de 1 até 10
+7. Soma dos Números
+8. Tabuada com `while`
+9. Contador de Números Pares
+10. Sistema de Login Simples
+
+### Desafio Extra
+11. Média da Turma com `while`
+
+## 🎯 Objetivo
+
+Praticar os conceitos fundamentais de:
+- Estruturas condicionais simples e compostas
+- Operadores relacionais e lógicos
+- Estrutura de repetição `while`
+- Acumuladores e contadores
+
+## 🛠️ Tecnologia
+
+- Python 3
+
+## ▶️ Como executar
+
+```bash
+python nome_do_arquivo.py
+```
+
+---
+*Exercícios de lógica de programação e algoritmos.*
