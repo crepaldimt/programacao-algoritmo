@@ -5,16 +5,9 @@
 # Autor: Matheus Crepaldi                                      #
 ################################################################
 
+base = 3
+potencia = 1
 
-def main():
-    base = 3
-    potencia = 1
-
-    # a potência inicial representa 3 elevado a zero.
-    for expoente in range(16):
-        print(f"3 elevado a {expoente} = {potencia}")
-        potencia *= base
-
-
-if __name__ == "__main__":
-    main()
+for expoente in range(16):
+    print(f"3 elevado a {expoente} = {potencia}")
+    potencia *= base
