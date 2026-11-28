@@ -19,4 +19,3 @@ for indice, valor in enumerate(vetor_a, start=1):
 
 print("Elementos do vetor B:")
 print(vetor_b)
-
