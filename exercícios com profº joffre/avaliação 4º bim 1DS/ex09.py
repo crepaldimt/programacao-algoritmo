@@ -24,6 +24,7 @@ for indice in range(1, 13):
             vetor_b.append(valor)
             break
         print("Valor inválido: múltiplos de 5 não são aceitos.")
+        
 
 vetor_c = vetor_a + vetor_b
 print("Elementos do vetor C:")
